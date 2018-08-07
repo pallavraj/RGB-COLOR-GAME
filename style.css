@@ -1,0 +1,22 @@
+.square{
+    width: 30%;
+    margin: 1.66%;
+    background: #3b5bb5;
+    float: left;
+    padding-bottom: 30%;
+}
+
+#container{
+    margin: 0 auto;
+    max-width: 600px;
+
+}
+
+body{
+    background: #000000;
+}
+
+h1{
+    margin: 0 auto;
+    color: white;
+}
